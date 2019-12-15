@@ -23,5 +23,5 @@ You will also see any lint errors in the console.
 
 Please see the `screenshot` to see the view
 ![screenshot](screenshots/mainPage.PNG)
-![screenshot](Screenshots/newBook.PNG)
-![screenshot](Screenshots/updateBook.PNG)
+![screenshot](screenshots/newBook.PNG)
+![screenshot](screenshots/updateBook.PNG)
