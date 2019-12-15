@@ -22,6 +22,6 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 Please see the `screenshot` to see the view
-![screenshot](screenshots/mainPage.PNG)
+![screenshot](screenshots/MainPage.PNG)
 ![screenshot](screenshots/newBook.PNG)
 ![screenshot](screenshots/updateBook.PNG)
