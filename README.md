@@ -7,7 +7,8 @@ In the project directory,First you need to install dependencies by
 ### `yarn install`
 
 then enter api folder inside main directory `uptain-book-app/api` then run
-### `npm start for api run` 
+### `npm start` 
+for api run 
 Open [http://localhost:3010/books]
 
 Then again go back to main folder and run the react frontend by
